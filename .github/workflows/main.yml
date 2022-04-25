@@ -24,10 +24,5 @@ jobs:
         run: echo "::set-output name=firstword::hello"
       - id: step2
         run: echo "::set-output name=secondword::world"
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
+
 
